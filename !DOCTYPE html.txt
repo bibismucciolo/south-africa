@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Discover South Africa</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #007e3a;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header img {
+      height: 60px;
+      margin-bottom: 1rem;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #007e3a;
+    }
+    ul {
+      list-style-type: square;
+      padding-left: 1.5rem;
+    }
+    .highlight {
+      background-color: #e0f7e9;
+      border-left: 5px solid #007e3a;
+      padding: 1rem;
+      margin: 1.5rem 0;
+    }
+    footer {
+      background: #007e3a;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    .image-section {
+      text-align: center;
+      margin: 2rem 0;
+    }
+    .image-section img {
+      width: 100%;
+      max-width: 800px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_South_Africa.svg" alt="South Africa Logo">
+    <h1>🌍 Welcome to South Africa 🇿🇦</h1>
+    <p>Your Next Great Adventure Starts Here</p>
+  </header>
+
+  <section>
+    <h2>🥳 Why South Africa?</h2>
+    <p>Looking for a destination that mixes wild adventures, vibrant culture, and unforgettable memories? South Africa is calling!</p>
+  </section>
+
+  <div class="image-section">
+    <img src="https://cdn.britannica.com/79/94379-050-4CF80EB9/Table-Mountain-Cape-Town.jpg" alt="Table Mountain Cape Town">
+  </div>
+
+  <section>
+    <h2>🎭 Culture & Vibes</h2>
+    <ul>
+      <li><strong>Ubuntu</strong>: The spirit of humanity and community.</li>
+      <li><strong>Heritage Day</strong> (aka Braai Day): A national celebration of all things South African.</li>
+      <li><strong>Townships</strong>: Full of history, resilience, and creativity.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🍲 Must-Try South African Foods</h2>
+    <ul>
+      <li><strong>Bunny Chow</strong>: A spicy curry in a bread loaf.</li>
+      <li><strong>Biltong</strong>: Tastier version of beef jerky.</li>
+      <li><strong>Pap & Chakalaka</strong>: Maize porridge and spicy relish.</li>
+      <li><strong>Braai</strong>: A South African BBQ — more than a meal, it’s a vibe.</li>
+    </ul>
+  </section>
+
+  <div class="image-section">
+    <img src="https://cdn.britannica.com/95/194395-050-26F4EC3F/Boerewors-traditional-sausage-South-Africa.jpg" alt="South African Food">
+  </div>
+
+  <section>
+    <h2>🗣 Languages Spoken</h2>
+    <p>South Africa has 11 official languages. Most people speak English, especially in cities. You might also hear:</p>
+    <ul>
+      <li><strong>Zulu</strong></li>
+      <li><strong>Xhosa</strong></li>
+      <li><strong>Afrikaans</strong></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>💸 Flight Costs (Round-trip)</h2>
+    <ul>
+      <li>From Europe: €500 – €800</li>
+      <li>From the US: $700 – $1,000</li>
+      <li>From Brazil: R$3,500 – R$5,500</li>
+    </ul>
+    <p>✈️ <strong>Tip:</strong> Travel during March–May or September–November to save!</p>
+  </section>
+
+  <section>
+    <h2>🌟 Top Reasons to Visit South Africa</h2>
+    <ul>
+      <li>Epic Safaris</li>
+      <li>Incredible Beaches</li>
+      <li>Friendly People</li>
+      <li>Affordable Travel</li>
+      <li>Rich History</li>
+      <li>Adventure Sports</li>
+    </ul>
+  </section>
+
+  <div class="image-section">
+    <img src="https://media.cntraveler.com/photos/5d1f629ba31f0d0008b2db32/16:9/w_2560%2Cc_limit/GettyImages-949193340.jpg" alt="Safari South Africa">
+  </div>
+
+  <section class="highlight">
+    <h2>📸 Your Insta Will Thank You</h2>
+    <p>From Table Mountain views to wild elephants and township festivals, South Africa is a dream for your camera roll!</p>
+  </section>
+
+  <section>
+    <h2>🤙 Final Words</h2>
+    <p>South Africa isn’t just a place you visit — it’s a place you <em>feel</em>. Pack your bags and come vibe with us in the Rainbow Nation!</p>
+  </section>
+
+  <footer>
+    <p>Made with ❤️ for adventurers. Explore more at VisitSouthAfrica.com</p>
+  </footer>
+</body>
+</html>
